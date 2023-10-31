@@ -189,20 +189,24 @@ Apotolic Chistian assembly.html
           have been put to other uses.</font>
     </p>
   </body>
-</html>
+</html>![Screenshot (5)](https://github.com/praveenck23009864/NearMe/assets/141472050/b479fad7-4472-408a-8833-3e7a2a3356ff)![Screenshot (7)](https://github.com/praveenck23009864/NearMe/assets/141472050/fddb9805-14bc-439d-ae61-1039bdc32c5d)
+![Screenshot (6)](https://github.com/praveenck23009864/NearMe/assets/141472050/79f98ff9-6af2-4a99-b5a4-230eb34fc0fb)
+
+
 
 ```
 
 
 ## OUTPUT
 
-![Alt text](<Screenshot (2).png>)
-![Alt text](<Screenshot (3).png>)
-![Alt text](<Screenshot (4).png>)
-![Alt text](<Screenshot (5).png>)
-![Alt text](<Screenshot (6).png>)
-![Alt text](<Screenshot (7).png>)
+![Screenshot (2)](https://github.com/praveenck23009864/NearMe/assets/141472050/78a33cfc-8b7e-45e6-ab5c-386014603e20)
+![Screenshot (3)](https://github.com/praveenck23009864/NearMe/assets/141472050/15a6e575-0ea6-433b-87d1-9c0b3869d13a)
 
+![Screenshot (4)](https://github.com/praveenck23009864/NearMe/assets/141472050/2283d8a1-302f-492a-982a-8429569383cc)
+![Screenshot (6)](https://github.com/praveenck23009864/NearMe/assets/141472050/f6f06f0a-97ef-4b3c-8406-d95ad775c949)
+
+![Screenshot (5)](https://github.com/praveenck23009864/NearMe/assets/141472050/4c88e30c-6371-413c-ad1d-83d1a4d05745)
+![Screenshot (7)](https://github.com/praveenck23009864/NearMe/assets/141472050/1e53a7e0-bc06-4e60-8a0f-4142c362bdce)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
